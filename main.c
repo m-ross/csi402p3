@@ -1,5 +1,4 @@
 /* Author: Marcus Ross
- *         MR867434
  * Description: This program builds a database and executes queries on it, together according to several input files.
  *   It takes as arguments the filenames of plain text files, one containing a configuration and the other a list of queries.
  *   The query file must have one statement per line, from one of the following:
